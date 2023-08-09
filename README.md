@@ -9,7 +9,8 @@ The Body Mass Index (BMI) calculator is a web application designed to help users
 
 ### Click Below link to visit the site 
 
-<a href="[[bmc-gurukiran.infinityfreeapp.com](http://bmc-gurukiran.infinityfreeapp.com/?i=1)](http://bmc-gurukiran.infinityfreeapp.com/)" target="_blank">Body Mass Calculator</a>
+Link to BMI Site:
+http://bmc-gurukiran.infinityfreeapp.com/
 
 Site has been hosted useing InfinityFree and copyrighted gurukiran badiger 
 
